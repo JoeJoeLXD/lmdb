@@ -36,7 +36,7 @@ export const Footer = () => {
         </li>
         <li className="relative ml-16 mr-8">
           <a
-            href="https://github.com/JoeJoeLXD"
+            href="https://github.com/JoeJoeLXD/lmdb"
             target="_blank"
             className="hover:underline"
             onMouseEnter={() => setIsGithubHovered(true)}
