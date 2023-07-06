@@ -1,3 +1,3 @@
 # LMDB movie database web application
 
-https://lmdb-xl.netlify.app/
+Deployed on https://lmdb-xl.netlify.app/
